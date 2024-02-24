@@ -138,7 +138,7 @@ This repository contains a Python-based CRUD (Create, Read, Update, Delete) API 
 
 ### Testing and Validation
 
-- After deployment, visit the provided URL (e.g., `[http://<your-app-name>.azurewebsites.net/docs](https://moulik-carvach.azurewebsites.net/docs)`) to check if the application is running and accessible.
+- After deployment, visit the provided URL (e.g., `[https://moulik-carvach.azurewebsites.net/docs]`) to check if the application is running and accessible.
 - Perform CRUD operations via the FastAPI interactive documentation to ensure the application is interacting correctly with the Azure PostgreSQL database.
 
 ### Monitoring and Maintenance
