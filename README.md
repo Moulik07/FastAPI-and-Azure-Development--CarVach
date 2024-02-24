@@ -1,5 +1,3 @@
-# FastAPI-and-Azure-Development--CarVach
-
 # FastAPI CRUD Application with PostgreSQL on Azure
 
 ## Introduction
